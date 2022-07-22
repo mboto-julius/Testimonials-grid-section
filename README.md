@@ -30,6 +30,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - (https://frontendtestimonialgrid.netlify.app)
 - Frontend Mentor - [@mboto-julius](https://www.frontendmentor.io/profile/mboto-julius)
 - Twitter - [@mboto_og](https://www.twitter.com/yourusername)
